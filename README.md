@@ -19,3 +19,7 @@ Coming soon...
 ## Installation
 
 Instructions coming soon...
+
+## Test
+
+Testing GitHub repository connectivity - this line can be removed later.
